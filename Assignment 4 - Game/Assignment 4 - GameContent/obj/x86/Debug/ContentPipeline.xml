@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>playerSpriteSheet.png</Source>
+      <Name>playerSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\playerSpriteSheet.xnb</Output>
+      <Time>2013-04-18T19:41:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>enemySpriteSheet.png</Source>
+      <Name>enemySpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\enemySpriteSheet.xnb</Output>
+      <Time>2013-04-22T18:31:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grassyArea.png</Source>
+      <Name>grassyArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\grassyArea.xnb</Output>
+      <Time>2013-04-22T20:10:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rockyArea.png</Source>
+      <Name>rockyArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\rockyArea.xnb</Output>
+      <Time>2013-04-24T19:54:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NPC1SpriteSheet.png</Source>
+      <Name>NPC1SpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\NPC1SpriteSheet.xnb</Output>
+      <Time>2013-04-28T19:05:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>townHouse.png</Source>
+      <Name>townHouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\townHouse.xnb</Output>
+      <Time>2013-04-28T23:10:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>townArea.png</Source>
+      <Name>townArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\townArea.xnb</Output>
+      <Time>2013-04-28T23:11:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>treesSpriteSheet.png</Source>
+      <Name>treesSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\treesSpriteSheet.xnb</Output>
+      <Time>2013-04-28T23:30:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>townSign.png</Source>
+      <Name>townSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\townSign.xnb</Output>
+      <Time>2013-04-29T02:02:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grassyBattlePlain.png</Source>
+      <Name>grassyBattlePlain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\grassyBattlePlain.xnb</Output>
+      <Time>2013-04-29T13:39:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2013-04-23T20:28:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jared C Balogh - Strides.mp3</Source>
+      <Name>Jared C Balogh - Strides</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Jared C Balogh - Strides.xnb</Output>
+      <Extra>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Jared C Balogh - Strides.wma</Extra>
+      <Time>2013-04-29T00:25:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Oskar Schuster - Sneeuwland.mp3</Source>
+      <Name>Oskar Schuster - Sneeuwland</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Oskar Schuster - Sneeuwland.xnb</Output>
+      <Extra>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Oskar Schuster - Sneeuwland.wma</Extra>
+      <Time>2013-04-29T00:39:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Deep Sky Blue.mp3</Source>
+      <Name>Deep Sky Blue</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Deep Sky Blue.xnb</Output>
+      <Extra>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Deep Sky Blue.wma</Extra>
+      <Time>2013-04-29T15:04:42-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - GameContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-10T04:48:56.4796778-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

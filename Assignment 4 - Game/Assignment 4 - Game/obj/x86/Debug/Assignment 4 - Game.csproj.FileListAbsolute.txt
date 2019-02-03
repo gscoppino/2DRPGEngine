@@ -1,0 +1,28 @@
+C:\Users\Giuseppe\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Assignment 4 - Game.exe
+C:\Users\Giuseppe\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Assignment 4 - Game.pdb
+C:\Users\Giuseppe\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Giuseppe\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Assignment 4 - Game.exe
+C:\Users\Giuseppe\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Assignment 4 - Game.pdb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\playerSpriteSheet.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\enemySpriteSheet.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\grassyArea.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\rockyArea.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\NPC1SpriteSheet.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\townHouse.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\townArea.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\treesSpriteSheet.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\townSign.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\grassyBattlePlain.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Arial.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Jared C Balogh - Strides.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Oskar Schuster - Sneeuwland.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Deep Sky Blue.xnb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Jared C Balogh - Strides.wma
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Oskar Schuster - Sneeuwland.wma
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Content\Deep Sky Blue.wma
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Assignment 4 - Game.exe
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\bin\x86\Debug\Assignment 4 - Game.pdb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Assignment 4 - Game.exe
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Assignment 4 - Game.pdb
+E:\Documents\Undergraduate College\Computer Science\CSE 1301C\Assignments\Assignment 4 - Game\Assignment 4 - Game\Assignment 4 - Game\obj\x86\Debug\Assignment 4 - Game.csprojResolveAssemblyReference.cache
